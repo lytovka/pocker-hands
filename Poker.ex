@@ -1,5 +1,3 @@
-#Team members: Ivan Lytovka - 500861433, Danyil Kotov - 500877422
-
 # royal flush: 1
 # straight flush: 2
 # four of a kind: 3
